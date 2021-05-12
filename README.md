@@ -1,3 +1,12 @@
+# Aplicación Básica para Añadir y Eliminar Productos / Basic Application to Add and Remove Products
+
+## Herraminta Utilizada /  Tool used
+- Angular 11 :anger:
+
+
+![](shop.png)
+
+
 # ShoppingList
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.12.
