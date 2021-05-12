@@ -1,0 +1,10 @@
+.container{
+    width: 900px;
+    margin:2 auto;
+
+    display:grid;
+}
+
+.button{
+    padding: 10px;
+}
